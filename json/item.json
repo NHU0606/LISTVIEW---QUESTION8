@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.pinimg.com/236x/0e/23/a4/0e23a4a381d613da16fc2dc5aad8c7da.jpg",
+        "name": "Tulip", 
+        "des": "Tulips are erect flowers with long, broad, parallel-veined leaves and a cup-shaped, single or double flower at the tip of the stem."      
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/236x/52/66/d3/5266d3e71c1389ebed7aac29384876ee.jpg",
+        "name": "Rose", 
+        "des": "Rose flowers vary in size and shape. They burst with colours ranging from pastel pink, peach, and cream, to vibrant red, yellow and orange"      
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/236x/58/61/1d/58611dcfa253607c6fa054da13c1d512.jpg",
+        "name": "Sakura", 
+        "des": "Sakura is the Japanese term for cherry blossom trees. Cherry blossom trees are different from other cherry trees."      
+    },
+    {
+        "id": 4,
+        "image": "https://i.pinimg.com/564x/32/69/79/3269797b1194f46d3896830da14ea8c1.jpg",
+        "name": "Golden Retriever", 
+        "des": "The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name. "      
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/564x/70/6e/b1/706eb17432e8ef21f150caf7aa6d3284.jpg",
+        "name": "Chihuahua", 
+        "des": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds."      
+    },
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/236x/c3/88/46/c38846904b206b9702cfa9c7421f3d2e.jpg",
+        "name": "Akita", 
+        "des": "The Akita is a muscular, double-coated dog of ancient Japanese lineage famous for their dignity, courage, and loyalty."      
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/236x/c4/97/20/c49720da325965e7fc1e9dad51aaef43.jpg",
+        "name": "Abyssinian", 
+        "des": "Lithe and long, with a lean, muscular build and moderately wedge-shaped head and large, almond shaped eyes, the Abyssinian is a supermodel of a cat."      
+    },
+    {
+        "id": 8,
+        "image": "https://i.pinimg.com/236x/0e/23/a4/0e23a4a381d613da16fc2dc5aad8c7da.jpg",
+        "name": "Rose", 
+        "des": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds."      
+    },
+    {
+        "id": 8,
+        "image": "https://i.pinimg.com/236x/0e/23/a4/0e23a4a381d613da16fc2dc5aad8c7da.jpg",
+        "name": "Rose", 
+        "des": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds."      
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/564x/70/6e/b1/706eb17432e8ef21f150caf7aa6d3284.jpg",
+        "name": "Chihuahua", 
+        "des": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds."      
+    },
+    {
+        "id": 10,
+        "image": "https://i.pinimg.com/236x/c3/88/46/c38846904b206b9702cfa9c7421f3d2e.jpg",
+        "name": "Akita", 
+        "des": "The Akita is a muscular, double-coated dog of ancient Japanese lineage famous for their dignity, courage, and loyalty."      
+    },
+    {
+        "id": 11,
+        "image": "https://i.pinimg.com/236x/c4/97/20/c49720da325965e7fc1e9dad51aaef43.jpg",
+        "name": "Abyssinian", 
+        "des": "Lithe and long, with a lean, muscular build and moderately wedge-shaped head and large, almond shaped eyes, the Abyssinian is a supermodel of a cat."      
+    },
+    {
+        "id": 12,
+        "image": "https://i.pinimg.com/236x/0e/23/a4/0e23a4a381d613da16fc2dc5aad8c7da.jpg",
+        "name": "Rose", 
+        "des": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds."      
+    }
+]
