@@ -27,50 +27,40 @@
   </head>
   <body>
     <div class="container">
-          <header>
-            <nav class="navbar navbar-light bg-light">
-              <div class="container-fluid">
-                <a class="navbar-brand" href="#">
-                  <h1 class="header-title">LIST VIEW</h1>
-                  <p class="header-des">Have a lot of topic to see</p>
-                </a>
-              </div>
-            </nav>
-          </header>
-          <div class="container-body">
-            <ul id="list-group" class="list-group">
-              <!-- <li id="list-group-item" class="list-group-item">
-                <div class="list-group-item-left">
-                  <div class="img-item">
-                    <img src="./img/Afador.jpg" alt="" />
-                  </div>
-                  <div class="text--item">
-                    <h3 class="text--item__title">a dog</h3>
-                    <p class="text--item__des">
-                      a dog a doga doga doga doga dog
-                    </p>
-                  </div>
-                </div>
-                <div class="list-group-item-right">
-                  <button type="button" class="btn btn-secondary btn-review">
-                    Review
-                  </button>
-                </div>
-              </li> -->
-            </ul>
+      <header>
+        <nav class="navbar navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+              <h1 class="header-title">LIST VIEW</h1>
+              <p class="header-des">Have a lot of topic to see</p>
+            </a>
           </div>
-          <footer>
-            <button type="button" class="btn btn-secondary btn-loadmore">
-              Load More
-              <span class="loading"><span></span></span>
-            </button>
-          </footer>
+        </nav>
+      </header>
+      <div class="container-body">
+        <ul id="list-group" class="list-group"></ul>
       </div>
-      
+      <footer>
+        <button type="button" class="btn btn-secondary btn-loadmore">
+          Load More
+          <span class="loading"><span></span></span>
+        </button>
+      </footer>
     </div>
 
     <script src="./js/main.js"></script>
     <script src="./js/pullRefresh.js"></script>
     <script src="./js/loadMore.js"></script>
+    <script>
+      PullToRefresh.init({
+        mainElement: "body",
+        onRefresh(done) {
+          setTimeout(() => {
+            done();
+          }, 1500);
+          window.location.reload();
+        },
+      });
+    </script>
   </body>
 </html>
